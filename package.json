@@ -1,0 +1,9 @@
+{
+    "description": "an add-on to search in tipsforlinux.com", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "Gustavo Henrique", 
+    "version": "0.1", 
+    "fullName": "tipsforlinux-addon", 
+    "id": "jid1-UBfHpPYxIMXGxg", 
+    "name": "tipsforlinux"
+}
